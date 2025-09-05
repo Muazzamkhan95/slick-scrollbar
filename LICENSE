@@ -1,0 +1,12 @@
+
+# 7) LICENSE
+Use MIT (common for these plugins). Example MIT text with your name/year.
+
+# 8) Git basics & first release
+```bash
+git init -b main
+git add .
+git commit -m "feat: initial release (Filament v4)"
+git tag v1.0.0
+git remote add origin git@github.com:muazzam/slick-scrollbar.git
+git push -u origin main --tags
