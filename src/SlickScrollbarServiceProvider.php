@@ -1,6 +1,6 @@
 <?php
 
-namespace Muazzam\FilamentSlickScrollbar;
+namespace Muazzam\SlickScrollbar;
 
 use Illuminate\Support\ServiceProvider;
 use Filament\Support\Facades\FilamentAsset;

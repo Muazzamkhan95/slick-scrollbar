@@ -1,6 +1,6 @@
 <?php
 
-namespace Muazzam\FilamentSlickScrollbar;
+namespace Muazzam\SlickScrollbar;
 
 use Filament\Panel;
 use Filament\Contracts\Plugin;
