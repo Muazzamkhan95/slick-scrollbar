@@ -87,7 +87,7 @@ SlickScrollbarPlugin::make()
 
 ## 📸 Screenshots
 
-*(Add your light + dark mode screenshots/gifs here)*
+![alt text](scroll-screenshot.png)
 
 ---
 
